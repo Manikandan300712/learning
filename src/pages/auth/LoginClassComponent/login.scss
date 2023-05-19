@@ -1,0 +1,13 @@
+.col-md-4 {
+  user-select: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  form {
+    margin: 0 50px;
+    .btn {
+      width: 100%;
+    }
+  }
+}
